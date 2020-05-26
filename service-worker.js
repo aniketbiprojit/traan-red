@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/traan-red/precache-manifest.f2d460dee6e01d64d154be83baed0cdc.js"
+  "/traan-red/precache-manifest.65c11e9e0ba1b5c05c54bc6b65cc0320.js"
 );
 
 workbox.clientsClaim();
